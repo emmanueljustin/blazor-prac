@@ -38,6 +38,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/RComponents/IntroContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSQ29tcG9uZW50c1xJbnRyb0NvbnRlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/RComponents/MyButton.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSQ29tcG9uZW50c1xNeUJ1dHRvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -65,3 +69,7 @@ build_metadata.AdditionalFiles.CssScope = b-g80w8ngysh
 [C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-htfjgjh3vn
+
+[C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/Pages/Services.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZXJ2aWNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-emf220jwgz

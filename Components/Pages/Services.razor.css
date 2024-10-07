@@ -1,0 +1,28 @@
+﻿.offer-title{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    margin-top: 20px;
+}
+
+    ul .check:before {
+        content: "✅";
+        margin-right: 10px;
+    }
+
+    ul .cross:before {
+        content: "❌";
+        margin-right: 10px;
+    }
+
+.hover-effect {
+    transition: transform 0.3s ease;
+}
+
+    .hover-effect:hover {
+        transform: scale(1.05);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    }

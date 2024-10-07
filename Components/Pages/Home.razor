@@ -3,49 +3,37 @@
 
 <PageTitle>Home</PageTitle>
 
-<div class="mt-5 d-flex flex-row justify-content-between w-100">
+<div class="mt-5 row w-100">
 
-    <div class="d-flex flex-column align-items-center justify-content-center">
-        <div class=" w-75 text-justify">
-            <div class="d-flex align-items-start">
-                <h1 class="fw-bold">Lorem Ipsum</h1>
-            </div>
-
-            <div class="mt-4">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                    mollit anim id est laborum.
-                </p>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et
-                    dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-                    ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-                    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-                    mollit anim id est laborum.
-                </p>
+    <div class="col-sm">
+        <div class="d-flex flex-column align-items-center justify-content-center">
+            <div class=" w-75 text-justify">
+                <IntroContent />
+                <MyButton class="btn btn-dark mt-2">Get Started</MyButton>
             </div>
         </div>
     </div>
 
-    <div class="position-relative w-100 h-25 bg-primary">
-        <img src="images/IMG2.jpg" class="w-75 shadow-lg position-absolute" style="z-index: 1; top: 0px; left: 20px" />
-        <img src="images/IMG1.jpg" class="w-75 shadow-lg position-absolute" style="z-index: 2; top: 50px; left: -100px" />
+    <div class="col-sm-4">
+        <div class="container">
+            <img src="images/IMG1.jpg" class="d-block w-75" />
+            <!--<div class="row">
+                <img src="images/IMG2.jpg" class="col object-fit-cover" style="z-index: 1; top: 0px; left: 100px" />
+                <img src="images/IMG1.jpg" class="col object-fit-cover" style="z-index: 2; top: 50px; left: -80px" />
+            </div>-->
+        </div>
     </div>
 
 </div>
 
 <div>
-
 </div>
 
 @code {
     private List<string> imageNames = new List<string>
-    {
+        {
         "IMG1.jpg",
         "IMG2.jpg",
         "IMG3.jpg",
-    };
-}
+        };
+        }

@@ -1,0 +1,28 @@
+.offer-title[b-emf220jwgz]{
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+ul[b-emf220jwgz] {
+    list-style: none;
+    margin-top: 20px;
+}
+
+    ul .check[b-emf220jwgz]:before {
+        content: "✅";
+        margin-right: 10px;
+    }
+
+    ul .cross[b-emf220jwgz]:before {
+        content: "❌";
+        margin-right: 10px;
+    }
+
+.hover-effect[b-emf220jwgz] {
+    transition: transform 0.3s ease;
+}
+
+    .hover-effect:hover[b-emf220jwgz] {
+        transform: scale(1.05);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    }

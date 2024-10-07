@@ -29,3 +29,7 @@ C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.ge
 C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\ref\BlazorApp2.dll
 C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\scopedcss\Components\Layout\NavBar.razor.rz.scp.css
 C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.sourcelink.json
+C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\bin\Debug\net8.0\package-lock.json
+C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\bin\Debug\net8.0\package.json
+C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\scopedcss\Components\Pages\Services.razor.rz.scp.css
