@@ -1,4 +1,18 @@
-﻿.overlapping-image {
+﻿.intro-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    z-index: -1;
+}
+
+.intro-message {
+    height: 70vh;
+}
+
+.overlapping-image {
     /*position: absolute;*/ /* Position images absolutely */
 }
 

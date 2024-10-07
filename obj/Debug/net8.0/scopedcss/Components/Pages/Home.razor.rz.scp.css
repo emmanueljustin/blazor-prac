@@ -1,3 +1,17 @@
+.intro-bg[b-htfjgjh3vn] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    z-index: -1;
+}
+
+.intro-message[b-htfjgjh3vn] {
+    height: 70vh;
+}
+
 .overlapping-image[b-htfjgjh3vn] {
     /*position: absolute;*/ /* Position images absolutely */
 }

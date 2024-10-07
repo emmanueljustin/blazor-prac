@@ -3,37 +3,35 @@
 
 <PageTitle>Home</PageTitle>
 
-<div class="mt-5 row w-100">
+<div class="row">
+    <div class="vh-100 w-50 d-flex align-items-center justify-content-center">
+        <div class="d-none d-lg-block">
+            <img class="intro-bg" src="images/model-cover.jpg" />
+        </div>
 
-    <div class="col-sm">
-        <div class="d-flex flex-column align-items-center justify-content-center">
-            <div class=" w-75 text-justify">
+        <div class="text-justify">
+            <h1 class="fw-bold">Captivating Beauty</h1>
+            <h1 class="fw-bold">Elegance</h1>
+            <h1 class="fw-bold">Sophistication</h1>
+            <MyButton class="btn btn-dark mt-5">Learn More</MyButton>
+        </div>
+    </div>
+
+    <div class="px-5">
+    <div class="container vh-100 w-100 d-flex align-items-center">
+        <div class="row">
+            <div class="col">
                 <IntroContent />
-                <MyButton class="btn btn-dark mt-2">Get Started</MyButton>
+            </div>
+
+            <div class="col d-flex justify-content-center">
+                <img class="w-50" src="images/IMG1.jpg" />
             </div>
         </div>
     </div>
-
-    <div class="col-sm-4">
-        <div class="container">
-            <img src="images/IMG1.jpg" class="d-block w-75" />
-            <!--<div class="row">
-                <img src="images/IMG2.jpg" class="col object-fit-cover" style="z-index: 1; top: 0px; left: 100px" />
-                <img src="images/IMG1.jpg" class="col object-fit-cover" style="z-index: 2; top: 50px; left: -80px" />
-            </div>-->
-        </div>
     </div>
-
-</div>
-
-<div>
 </div>
 
 @code {
-    private List<string> imageNames = new List<string>
-        {
-        "IMG1.jpg",
-        "IMG2.jpg",
-        "IMG3.jpg",
-        };
-        }
+
+}
