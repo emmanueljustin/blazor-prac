@@ -1,0 +1,18 @@
+.overlapping-image[b-htfjgjh3vn] {
+    /*position: absolute;*/ /* Position images absolutely */
+}
+
+    .overlapping-image:nth-child(1)[b-htfjgjh3vn] {
+        top: 0;
+        left: 0;
+    }
+
+    .overlapping-image:nth-child(2)[b-htfjgjh3vn] {
+        top: 20px;
+        left: 20px;
+    }
+
+    .overlapping-image:nth-child(3)[b-htfjgjh3vn] {
+        top: 40px;
+        left: 40px;
+    }

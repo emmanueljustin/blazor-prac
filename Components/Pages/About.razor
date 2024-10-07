@@ -1,0 +1,27 @@
+﻿@page "/about"
+@rendermode InteractiveServer
+
+<PageTitle>About</PageTitle>
+
+<h1>About</h1>
+
+<p class="">This will serve as a practice for my frontend development in blazor</p>
+
+<div class="d-flex flex-column">
+    <div class="mb-3">
+        <MyButton class="btn btn-primary" OnClick="DownloadCV">Download my CV</MyButton>
+    </div>
+
+    <p class="mb-3">@message</p>
+</div>
+
+@code {
+    private string message = "";
+
+    private async Task DownloadCV()
+    {
+        message = "Downloading CV...";
+        await Task.Delay(1000);
+        message = "CV Successfully Downloaded!!";
+    }
+}
