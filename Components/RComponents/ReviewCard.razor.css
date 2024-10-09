@@ -1,0 +1,10 @@
+﻿.circular-image {
+    width: 100px; /* Set width */
+    height: 100px; /* Set height */
+    border-radius: 50%; /* Make it circular */
+    object-fit: cover; /* Crop the image */
+}
+
+.review-comment {
+    font-size: 17px;
+}

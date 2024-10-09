@@ -8577,6 +8577,18 @@
       "PackagePath": "staticwebassets\\fontawesome\\fontawesome-free-6.6.0-web\\webfonts\\fa-v4compatibility.woff2"
     },
     {
+      "Id": "C:\\Users\\ejati\\source\\repos\\BlazorApp2\\BlazorApp2\\wwwroot\\images\\Faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\images\\Faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ejati\\source\\repos\\BlazorApp2\\BlazorApp2\\wwwroot\\images\\Faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\images\\Faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ejati\\source\\repos\\BlazorApp2\\BlazorApp2\\wwwroot\\images\\Faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\images\\Faces\\face3.jpg"
+    },
+    {
       "Id": "C:\\Users\\ejati\\source\\repos\\BlazorApp2\\BlazorApp2\\wwwroot\\images\\IMG1.jpg",
       "PackagePath": "staticwebassets\\images\\IMG1.jpg"
     },
@@ -8595,6 +8607,10 @@
     {
       "Id": "C:\\Users\\ejati\\source\\repos\\BlazorApp2\\BlazorApp2\\wwwroot\\images\\model-cover.jpg",
       "PackagePath": "staticwebassets\\images\\model-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ejati\\source\\repos\\BlazorApp2\\BlazorApp2\\wwwroot\\scripts\\script.js",
+      "PackagePath": "staticwebassets\\scripts\\script.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorApp2.Microsoft.AspNetCore.StaticWebAssets.props",

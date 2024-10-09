@@ -1,0 +1,34 @@
+﻿<div class="timeline">
+    @foreach (var timelineEvent in TimelineEvents)
+    {
+        <div class="timeline-item">
+            <div class="timeline-content">
+                <h4>@timelineEvent.Title</h4>
+                <p>@timelineEvent.Description</p>
+                <span class="date">@timelineEvent.Date.ToString("MMMM dd, yyyy")</span>
+            </div>
+        </div>
+    }
+</div>
+
+@code {
+    private List<TimelineEvent> TimelineEvents { get; set; }
+
+    protected override void OnInitialized()
+    {
+        TimelineEvents = new List<TimelineEvent>
+        {
+            new TimelineEvent { Title = "Event 1", Description = "Description for event 1.", Date = new DateTime(2022, 1, 1) },
+            new TimelineEvent { Title = "Event 2", Description = "Description for event 2.", Date = new DateTime(2022, 6, 15) },
+            new TimelineEvent { Title = "Event 3", Description = "Description for event 3.", Date = new DateTime(2023, 3, 10) },
+            new TimelineEvent { Title = "Event 4", Description = "Description for event 4.", Date = new DateTime(2024, 10, 1) },
+        };
+    }
+
+    public class TimelineEvent
+    {
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public DateTime Date { get; set; }
+    }
+}

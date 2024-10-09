@@ -1,0 +1,46 @@
+﻿.timeline {
+    position: relative;
+    padding: 20px 0;
+    list-style: none;
+}
+
+.timeline-item {
+    position: relative;
+/*    margin-bottom: 20px;*/
+}
+
+    .timeline-item::before {
+        content: '';
+        position: absolute;
+        left: 15px; /* Adjust according to your design */
+        top: 0;
+        height: 100%;
+        width: 2px;
+        background: #007bff; /* Line color */
+    }
+
+.timeline-content {
+    background: #fff; /* Background for the event */
+    border-radius: 5px;
+    padding: 15px;
+    position: relative;
+    margin-left: 30px; /* Space for the line */
+}
+
+.date {
+    display: block;
+    font-size: 0.9em;
+    color: #888; /* Date color */
+}
+
+.timeline-item::after {
+    content: '';
+    position: absolute;
+    left: 11px; /* Position for the dot */
+    top: 0; /* Adjust top for positioning */
+    width: 10px;
+    height: 10px;
+    border-radius: 50%; /* Makes it a circle */
+    background: #007bff; /* Dot color */
+    margin-top: -5px; /* Center the dot on the line */
+}

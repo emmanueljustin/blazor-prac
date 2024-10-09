@@ -73,3 +73,11 @@ build_metadata.AdditionalFiles.CssScope = b-htfjgjh3vn
 [C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/Pages/Services.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZXJ2aWNlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-emf220jwgz
+
+[C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/RComponents/ReviewCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSQ29tcG9uZW50c1xSZXZpZXdDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-u7z5ln327i
+
+[C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/RComponents/Timeline.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSQ29tcG9uZW50c1xUaW1lbGluZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-tni4g28tey

@@ -1,0 +1,10 @@
+.circular-image[b-u7z5ln327i] {
+    width: 100px; /* Set width */
+    height: 100px; /* Set height */
+    border-radius: 50%; /* Make it circular */
+    object-fit: cover; /* Crop the image */
+}
+
+.review-comment[b-u7z5ln327i] {
+    font-size: 17px;
+}
