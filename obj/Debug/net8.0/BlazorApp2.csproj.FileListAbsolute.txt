@@ -35,3 +35,5 @@ C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\bin\Debug\net8.0\package.json
 C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\scopedcss\Components\Pages\Services.razor.rz.scp.css
 C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\scopedcss\Components\RComponents\Timeline.razor.rz.scp.css
 C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\scopedcss\Components\RComponents\ReviewCard.razor.rz.scp.css
+C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\scopedcss\Components\RComponents\IntroContent.razor.rz.scp.css
+C:\Users\ejati\source\repos\BlazorApp2\BlazorApp2\obj\Debug\net8.0\scopedcss\Components\RComponents\StarRating.razor.rz.scp.css

@@ -38,10 +38,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/RComponents/IntroContent.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSQ29tcG9uZW50c1xJbnRyb0NvbnRlbnQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/RComponents/MyButton.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSQ29tcG9uZW50c1xNeUJ1dHRvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -74,9 +70,17 @@ build_metadata.AdditionalFiles.CssScope = b-htfjgjh3vn
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZXJ2aWNlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-emf220jwgz
 
+[C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/RComponents/IntroContent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSQ29tcG9uZW50c1xJbnRyb0NvbnRlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5aoxmyxbvj
+
 [C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/RComponents/ReviewCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSQ29tcG9uZW50c1xSZXZpZXdDYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-u7z5ln327i
+
+[C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/RComponents/StarRating.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSQ29tcG9uZW50c1xTdGFyUmF0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-jl048w47k0
 
 [C:/Users/ejati/source/repos/BlazorApp2/BlazorApp2/Components/RComponents/Timeline.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSQ29tcG9uZW50c1xUaW1lbGluZS5yYXpvcg==

@@ -8,3 +8,18 @@
 .review-comment[b-u7z5ln327i] {
     font-size: 17px;
 }
+
+@media (max-width: 576px) {
+
+    .review-name[b-u7z5ln327i] {
+        font-size: 1.2rem;
+    }
+
+    .review-description[b-u7z5ln327i] {
+        font-size: 1rem;
+    }
+
+    .review-comment[b-u7z5ln327i] {
+        font-size: 13px;
+    }
+}

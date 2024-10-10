@@ -5,6 +5,18 @@
     width: 100%;
     height: 100vh;
     background-position: center;
+    object-fit: cover;
+    z-index: -2;
+}
+
+.overlay[b-htfjgjh3vn] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.6);
+    background-position: center;
     z-index: -1;
 }
 
@@ -12,21 +24,17 @@
     height: 70vh;
 }
 
-.overlapping-image[b-htfjgjh3vn] {
-    /*position: absolute;*/ /* Position images absolutely */
+.review-section[b-htfjgjh3vn] {
+    background-color: #0e1930;
+    height: 100vh;
 }
 
-    .overlapping-image:nth-child(1)[b-htfjgjh3vn] {
-        top: 0;
-        left: 0;
+@media (max-width: 600px) {
+    .slide-show-btn[b-htfjgjh3vn] {
+        display: none;
     }
 
-    .overlapping-image:nth-child(2)[b-htfjgjh3vn] {
-        top: 20px;
-        left: 20px;
+    .review-section[b-htfjgjh3vn] {
+        height: auto;
     }
-
-    .overlapping-image:nth-child(3)[b-htfjgjh3vn] {
-        top: 40px;
-        left: 40px;
-    }
+}

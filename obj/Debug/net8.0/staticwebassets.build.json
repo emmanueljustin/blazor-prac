@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y0/IMYyo7Nx31j2bLTMBTxZ9fsIPTk1FPA/WmQxCkCU=",
+  "Hash": "vo7G0kB5MVUTgUVRfQxoDsShlVHLSD7c72QhySqkuiA=",
   "Source": "BlazorApp2",
   "BasePath": "_content/BlazorApp2",
   "Mode": "Default",
@@ -40903,6 +40903,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\main-pic.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ejati\\source\\repos\\BlazorApp2\\BlazorApp2\\wwwroot\\images\\man1.jpg",
+      "SourceId": "BlazorApp2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ejati\\source\\repos\\BlazorApp2\\BlazorApp2\\wwwroot\\",
+      "BasePath": "_content/BlazorApp2",
+      "RelativePath": "images/man1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\man1.jpg"
     },
     {
       "Identity": "C:\\Users\\ejati\\source\\repos\\BlazorApp2\\BlazorApp2\\wwwroot\\images\\model-cover.jpg",

@@ -8,3 +8,18 @@
 .review-comment {
     font-size: 17px;
 }
+
+@media (max-width: 576px) {
+
+    .review-name {
+        font-size: 1.2rem;
+    }
+
+    .review-description {
+        font-size: 1rem;
+    }
+
+    .review-comment {
+        font-size: 13px;
+    }
+}
